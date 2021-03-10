@@ -1,9 +1,6 @@
-<h1 align="center">
-✨Welcome to my page dear visitor ✨
-°˖✧◝(⁰▿⁰)◜✧˖°
-</h1>
+# ✨Welcome to my page dear visitor ✨
 
-### Hello, I'm Edward, an aspiring full stack web developer with a penchant for elegant design. I have a background in digital illustration and a strong interest in video games.
+Hello, I'm Edward, an aspiring full stack web developer with a penchant for elegant design. I have a background in digital illustration and a strong interest in video games and Japanese media.
 
 ---
 
