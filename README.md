@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+✨Welcome to my page dear visitor ✨
+°˖✧◝(⁰▿⁰)◜✧˖°
+</h1>
 
-<!--
-**Ejhuang2015/Ejhuang2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Edward, an aspiring full stack web developer with a penchant for elegant design. I have a background in digital illustration and a strong interest in video games.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ejhuang2015's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejhuang2015&show_icons=true&title_color=EEFFFB&bg_color=10,B8DCC0,7FB1B8,64647E&text_color=163A54&icon_color=80FBF2)](https://github.com/ejhuang2015/github-readme-stats)
+# Get in touch
+- 🔗Personal site: <https://ejhuang2015.github.io/>
+- 📧Email: <Ejhuang.2015@gmail.com>
