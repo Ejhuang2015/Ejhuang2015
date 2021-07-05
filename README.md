@@ -49,7 +49,5 @@ Hello! I'm [Edward JieHao Huang](https://ejhuang2015.github.io/), an aspiring fu
 
 # Links
 <a href="https://www.linkedin.com/in/edwardhuang1238/"><img src="https://raw.githubusercontent.com/Ejhuang2015/ejhuang2015.github.io/main/src/assets/LinkedIn.png" alt="Edward's LinkedIn" target="_blank" rel="noreferrer noopener" width="40px"/></a>
-
 <a href="https://zekeroxblade.artstation.com/"><img src="https://raw.githubusercontent.com/Ejhuang2015/ejhuang2015.github.io/main/src/assets/ArtStation.png" alt="Edward's ArtStation" target="_blank" rel="noreferrer noopener" width="40px"/></a>
-
 <a href="mailto:ejhuang.2015@gmail.com"><img src="https://raw.githubusercontent.com/Ejhuang2015/ejhuang2015.github.io/main/src/assets/email.png" alt="Edward's Email" target="_blank" rel="noreferrer noopener" width="40px"/></a>
