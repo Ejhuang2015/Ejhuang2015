@@ -48,7 +48,6 @@ Hello! I'm [Edward JieHao Huang](https://ejhuang2015.github.io/), an aspiring fu
 </div>
 
 # Links
-<div style="display: flex; justify-content: space-around;">
 <a href="https://www.linkedin.com/in/edwardhuang1238/">
   <img src="https://raw.githubusercontent.com/Ejhuang2015/ejhuang2015.github.io/main/src/assets/LinkedIn.png" alt="Edward's LinkedIn" width="40px"/>
 </a>
@@ -58,4 +57,3 @@ Hello! I'm [Edward JieHao Huang](https://ejhuang2015.github.io/), an aspiring fu
 <a href="mailto:ejhuang.2015@gmail.com">
   <img src="https://raw.githubusercontent.com/Ejhuang2015/ejhuang2015.github.io/main/src/assets/email.png" alt="Edward's Email" width="40px"/>
 </a>
-</div>
