@@ -42,7 +42,9 @@ Hello! I'm [Edward JieHao Huang](https://ejhuang2015.github.io/), an aspiring fu
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ejhuang2015&show_icons=true&title_color=EEFFFB&bg_color=10,B8DCC0,7FB1B8,64647E&text_color=163A54&icon_color=80FBF2)](https://github.com/ejhuang2015/github-readme-stats" alt="Ejhuang2015's GitHub stats">  
+
+  ![Edward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejhuang2015&show_icons=true&title_color=EEFFFB&bg_color=10,B8DCC0,7FB1B8,64647E&text_color=163A54&icon_color=80FBF2) 
+  ![Edward's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ejhuang2015&title_color=163A54&bg_color=10,B8DCC0,7FB1B8,64647E&layout=compact)
 </div>
 
 # Links
