@@ -11,6 +11,7 @@ Hello! I'm [Edward JieHao Huang](https://ejhuang2015.github.io/), a full stack w
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=PHP)
+  ![Java](https://img.shields.io/badge/-Java-333333?logo=oracle&logoColor=F80000)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   
@@ -34,6 +35,7 @@ Hello! I'm [Edward JieHao Huang](https://ejhuang2015.github.io/), a full stack w
   ![MySql](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Express.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=6DB33F)
 
 🔧 Applications
 
